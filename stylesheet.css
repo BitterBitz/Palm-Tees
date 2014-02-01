@@ -1,0 +1,61 @@
+a {
+    text-decoration: none;
+    font-family: cursive;
+    color:cyan
+}
+a:hover {
+    color:black;
+}
+a:active {
+    font-size:75%;
+}
+.menu {
+    margin:auto;
+    width:100px;
+    text-align:center;
+    border-radius:5px;
+    background-color: #38698A;
+    font-size:14px;
+}
+.share {
+    float:left;
+    position:fixed;
+    display:inline;
+    border:2px solid darkcyan;
+    border-radius:5px;
+    font-family:Cursive;
+    background-color:whitesmoke;
+}
+#share {
+    margin:0 0 0 12px;
+    display:inline;
+}
+.cont {
+    text-align:center;
+    font-family:Cursive
+}
+#cont {
+    background-color:white;
+    margin:0 100px 0 100px;
+    border-radius:5px;
+    border:2px solid darkcyan;
+}
+.sharepic {
+    height:20px;
+    margin:0 5px 0 5px;
+}
+body {
+    background-image: url('BG.png');
+    background-repeat:repeat-y;
+}
+#barhead {
+    background-color: darkcyan;
+    height:50px;
+}
+#headimg {
+    height:150px;
+    border-radius:5px;
+    border:1px solid darkcyan;
+    background-color: white;
+    padding:5px;
+}
